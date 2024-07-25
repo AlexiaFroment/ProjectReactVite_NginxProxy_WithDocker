@@ -1,5 +1,5 @@
 # Utiliser une image Node.js pour le build
-FROM node:18 as build
+FROM node:lts-alpine3.19
 
 
 
